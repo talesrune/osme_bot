@@ -7,7 +7,7 @@ This telegram bot is useful for tracking nft collections' floor price on Opensea
 - Set price alerts of nft collection
 - Price variation alerts for each nft collection
 
-![alt text](https://github.com/talesrune/osme_bot/blob/main/front_image.png)
+<img src="https://github.com/talesrune/osme_bot/blob/main/front_image.png" alt="drawing" width="200"/>
 
 ## Installation
 
