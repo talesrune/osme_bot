@@ -1,0 +1,137 @@
+{
+  "ubik": {
+    "link": "https://api-mainnet.magiceden.dev/v2/collections/ubik/stats",
+    "emoji": "🧹,💩,🍲",
+    "market": "ME",
+    "l_than": "0",
+    "h_than": "30",
+    "hide": "no",
+    "variation": "1"
+  },
+  "cryptoshack": {
+    "link": "https://api.opensea.io/collection/cryptoshack?format=json",
+    "emoji": "📈,🥺,🍲",
+    "market": "OS_API",
+    "l_than": "0",
+    "h_than": "99.9",
+    "hide": "no",
+    "variation": "0.03"
+  },
+  "the_suites": {
+    "link": "https://api-mainnet.magiceden.dev/v2/collections/the_suites/stats",
+    "emoji": "🧹,💩,🍲",
+    "market": "ME",
+    "l_than": "0",
+    "h_than": "99",
+    "hide": "no",
+    "variation": "0.5"
+  },
+  "cupcatsofficial": {
+    "link": "https://api.opensea.io/collection/cupcatsofficial?format=json",
+    "emoji": "📈,🥺,🍲",
+    "market": "OS_API",
+    "l_than": "0",
+    "h_than": "99.9",
+    "hide": "no",
+    "variation": "0.02"
+  },
+  "rtfkt-mnlth": {
+    "link": "https://api.opensea.io/collection/rtfkt-mnlth?format=json",
+    "emoji": "📈,🥺,🍲",
+    "market": "OS_API",
+    "l_than": "0",
+    "h_than": "99.9",
+    "hide": "no",
+    "variation": "0.4"
+  },
+  "tubby-cats": {
+    "link": "https://api.opensea.io/collection/tubby-cats?format=json",
+    "emoji": "📈,🥺,🍲",
+    "market": "OS_API",
+    "l_than": "0",
+    "h_than": "99.9",
+    "hide": "no",
+    "variation": "0.031"
+  },
+  "solsteads_surreal_estate": {
+    "link": "https://api-mainnet.magiceden.dev/v2/collections/solsteads_surreal_estate/stats",
+    "emoji": "🧹,💩,🍲",
+    "market": "ME",
+    "l_than": "0",
+    "h_than": "99",
+    "hide": "no",
+    "variation": "3"
+  },
+  "quantum_traders": {
+    "link": "https://api-mainnet.magiceden.dev/v2/collections/quantum_traders/stats",
+    "emoji": "🧹,💩,🍲",
+    "market": "ME",
+    "l_than": "0",
+    "h_than": "99",
+    "hide": "no",
+    "variation": "0.5"
+  },
+  "citizens_by_solsteads": {
+    "link": "https://api-mainnet.magiceden.dev/v2/collections/citizens_by_solsteads/stats",
+    "emoji": "🧹,💩,🍲",
+    "market": "ME",
+    "l_than": "2",
+    "h_than": "99",
+    "hide": "no",
+    "variation": "0.2"
+  },
+  "cupcatkittens": {
+    "link": "https://api.opensea.io/collection/cupcatkittens?format=json",
+    "emoji": "📈,🥺,🍲",
+    "market": "OS_API",
+    "l_than": "0",
+    "h_than": "99.9",
+    "hide": "no",
+    "variation": "0.1"
+  },
+  "10ktf": {
+    "link": "https://api.opensea.io/collection/10ktf?format=json",
+    "emoji": "📈,🥺,🍲",
+    "market": "OS_API",
+    "l_than": "0",
+    "h_than": "99.9",
+    "hide": "no",
+    "variation": "0.1"
+  },
+  "libertasart": {
+    "link": "https://api.opensea.io/collection/libertasart?format=json",
+    "emoji": "📈,🥺,🍲",
+    "market": "OS_API",
+    "l_than": "0",
+    "h_than": "0.119",
+    "hide": "no",
+    "variation": "0.1"
+  },
+  "cryptojankyz": {
+    "link": "https://api.opensea.io/collection/cryptojankyz?format=json",
+    "emoji": "📈,🥺,🍲",
+    "market": "OS_API",
+    "l_than": "0",
+    "h_than": "99.9",
+    "hide": "no",
+    "variation": "0.1"
+  },
+  "froyokittenscollection": {
+    "link": "https://api.opensea.io/collection/froyokittenscollection?format=json",
+    "emoji": "📈,🥺,🍲",
+    "market": "OS_API",
+    "l_than": "0",
+    "h_than": "99.9",
+    "hide": "no",
+    "variation": "0.03"
+  },
+  "888_anon_club": {
+    "link": "https://api-mainnet.magiceden.dev/v2/collections/888_anon_club/stats",
+    "emoji": "🧹,💩,🍲",
+    "market": "ME",
+    "l_than": "0",
+    "h_than": "99",
+    "hide": "no",
+    "variation": "5"
+  }
+}
